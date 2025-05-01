@@ -8,4 +8,4 @@
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////
 
-    PMPM_cfg0_cg = new();      PMPM_cfg0_cg.set_inst_name("obj_pmp0");
+    PMPM_cg = new();      PMPM_cg.set_inst_name("obj_PMPM");
